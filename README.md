@@ -43,6 +43,8 @@ Copy
 Edit
 API_KEY = 'your_api_key_here'
 📸 Output Sample
+<img width="1496" height="746" alt="image" src="https://github.com/user-attachments/assets/6d4b5e84-c22a-4fa1-b054-8d21385c478c" />
+
 Estimated Diameter (Bar Chart)
 
 Close Approach Miss Distance (Scatter Plot)
