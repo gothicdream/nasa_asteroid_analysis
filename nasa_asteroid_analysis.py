@@ -8,9 +8,6 @@ Requirements:
 - requests
 - pandas
 - matplotlib
-
-Author: [Your Name]
-Date: [YYYY-MM-DD]
 """
 
 import requests
